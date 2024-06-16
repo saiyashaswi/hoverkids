@@ -3,3 +3,8 @@ body{
     background-color: aqua;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+h1{
+    color: blue;
+    text-align: center;
+    font-family: fantasy;
+}
